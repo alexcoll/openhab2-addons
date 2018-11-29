@@ -8,7 +8,7 @@ The Binding code is inspired by [hortinstein/node-dash-button](https://github.co
 **Warning:**
 The Dash Button will try to contact the Amazon servers every time the button is pressed.
 This might not be in line with your privacy preferences but can be prevented.
-Please refer to the ["Preventing Communication with Amazon Servers"](#no-phonehome) section for details.
+Please refer to the ["Preventing Communication with Amazon Servers"](#preventing-communication-with-amazon-servers) section for details.
 
 **Response Time:**
 Please be aware, that due to the operation method of this binding, the response time for a button press can be rather high (up to five seconds).
